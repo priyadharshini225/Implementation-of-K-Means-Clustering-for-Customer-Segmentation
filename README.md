@@ -90,25 +90,33 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
+
 1. DATA.HEAD():
+   
 ![Screenshot 2024-10-29 151337](https://github.com/user-attachments/assets/79ae05b9-4e89-4432-8aee-0480c4ada305)
 
 2.DATA.INFO():
+
 ![Screenshot 2024-10-29 151344](https://github.com/user-attachments/assets/72310976-385f-4274-9769-41f7fda00f45)
 
 3.DATA.ISNULL().SUM():
+
 ![Screenshot 2024-10-29 151350](https://github.com/user-attachments/assets/59d1c97c-16c0-4ec6-bc49-f7335a7cc024)
 
 4.PLOT USING ELBOW METHOD:
+
 ![Screenshot 2024-10-29 151401](https://github.com/user-attachments/assets/9ccdd792-f8a5-4f19-90e4-58dfc0bc1c11)
 
 5.K-MEANS CLUSTERING:   
+
 ![Screenshot 2024-10-29 151409](https://github.com/user-attachments/assets/9b9814b9-7545-4f31-84ca-7955ac821490)
 
 6.Y-PRED ARRAY:
+
 ![Screenshot 2024-10-29 151417](https://github.com/user-attachments/assets/8037e225-4be5-4cc7-8f27-607efe8fad0e)
 
 7.CUSTOMER SEGMENT:
+
 ![Screenshot 2024-10-29 151425](https://github.com/user-attachments/assets/f9ceae72-62ec-4ff3-9b25-531f030dc6a3)
 
 ## Result:
