@@ -18,7 +18,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4. Train a KMeans model with 5 clusters (based on the elbow point), and predict the cluster for each customer.
 
 5. Visualize the clusters by plotting "Annual Income" against "Spending Score" for each cluster, using different colors for clear segmentation.
-6. 
+ 
 ## Program:
 ```
 /*
